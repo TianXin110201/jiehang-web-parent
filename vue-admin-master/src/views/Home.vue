@@ -75,7 +75,7 @@
 	export default {
 		data() {
 			return {
-				sysName:'爱购商城后台管理',
+				sysName:'颉颃电子商城后台管理',
 				collapsed:false,
 				sysUserName: '',
 				sysUserAvatar: '',
